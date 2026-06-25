@@ -52,3 +52,6 @@ Thumbs.db
 # playwright
 /playwright-report/
 /test-results/
+
+#claude
+CLAUDE.md
