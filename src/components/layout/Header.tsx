@@ -71,7 +71,7 @@ export function Header({ onMenuToggle, menuOpen }: HeaderProps) {
         {/* Right side */}
         <div className="ml-auto flex items-center gap-2">
           <a
-            href="https://github.com"
+            href="https://github.com/Blur141/LinuxHardening-website"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:flex h-9 w-9 items-center justify-center rounded-md text-muted-foreground hover:text-foreground transition-colors"
